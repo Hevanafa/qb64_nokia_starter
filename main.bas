@@ -2,6 +2,8 @@ $Debug
 Option Base 0
 DefInt A-Z
 
+_Title "QB64 + Nokia 3310 Template"
+
 Const TARGET_FPS = 15
 Const K_ESC = 27
 
