@@ -25,7 +25,11 @@ You can either use **[QB64](https://qb64.com/)** or the **[Phoenix Edition](http
 
 `main_gx.bas` is the starter code
 
-If you want to use the game engine, just copy the `gx` folder by cloning this repo: https://github.com/boxgaming/gx
+If you want to use the game engine, just copy the `gx` folder from this repo: https://github.com/boxgaming/gx
+
+**About the project:** https://qb64.com/gx.html
+
+**GitHub repo:** https://github.com/boxgaming/gx
 
 
 ## About QBJS
