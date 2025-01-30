@@ -25,7 +25,9 @@ You can either use **[QB64](https://qb64.com/)** or the **[Phoenix Edition](http
 
 `main_gx.bas` is the starter code
 
-If you want to use the game engine, just copy the `gx` folder from this repo: https://github.com/boxgaming/gx
+This project also has the copy of GX in the boilerplate.
+
+**Optional:** If you want to use the game engine on your own, just copy the `gx` folder from this repo: https://github.com/boxgaming/gx
 
 **About the project:** https://qb64.com/gx.html
 
