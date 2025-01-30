@@ -20,7 +20,7 @@ You can either use **[QB64](https://qb64.com/)** or the **[Phoenix Edition](http
 
 ## About QBJS
 
-If you plan to use **QBJS**, you can click on the **Share/Export** button, then choose either **Play** or **Auto** as the launch mode.
+If you plan to use **QBJS**, you can click on the **Share/Export** button, then choose either **Play** or **Auto** as the launch mode. ([Ref](https://qb64phoenix.com/forum/archive/index.php?thread-2095.html))
 
 `main.bas` is meant to be used with the desktop build
 
