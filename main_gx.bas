@@ -3,7 +3,7 @@ $ExeIcon:'./gx/resource/gx.ico'
 '$Include:'gx/gx.bi'
 
 DefInt A-Z
-_Title "QB64 + Nokia 3310 Template"
+_Title "QB64 (GX) + Nokia 3310 Template"
 
 Const False = 0, True = Not False
 

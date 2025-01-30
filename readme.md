@@ -10,12 +10,22 @@ What this template contains:
 - Draw string with the classic Nokia font
 - Loading an image asset
 - Scaled window
+- QB64 GX example
 
 The font is from https://phillipp.itch.io/nokiajamresources
 
 You can either use **[QB64](https://qb64.com/)** or the **[Phoenix Edition](https://www.qb64phoenix.com/)** for desktop game development, or **[QBJS](https://qbjs.org/)** for web.
 
 **Nokia 3310 Jam FAQ**: https://itch.io/jam/nokiajam7/topic/4403826/faq
+
+
+## QB64 Game Engine
+
+![preview](./preview_gx.png)
+
+`main_gx.bas` is the starter code
+
+If you want to use the game engine, just copy the `gx` folder by cloning this repo: https://github.com/boxgaming/gx
 
 
 ## About QBJS
