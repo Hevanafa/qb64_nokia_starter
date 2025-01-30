@@ -15,6 +15,13 @@ The font is from https://phillipp.itch.io/nokiajamresources
 
 You can either use **[QB64](https://qb64.com/)** or the **[Phoenix Edition](https://www.qb64phoenix.com/)** for desktop game development, or **[QBJS](https://qbjs.org/)** for web.
 
+**Nokia 3310 Jam FAQ**: https://itch.io/jam/nokiajam7/topic/4403826/faq
+
+
+## About QBJS
+
 If you plan to use **QBJS**, you can click on the **Share/Export** button, then choose either **Play** or **Auto** as the launch mode.
 
-**Nokia 3310 Jam FAQ**: https://itch.io/jam/nokiajam7/topic/4403826/faq
+`main.bas` is meant to be used with the desktop build
+
+`main_qbjs.bas` is the one that you should use instead

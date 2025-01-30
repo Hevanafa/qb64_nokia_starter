@@ -1,0 +1,2 @@
+- Make a working QBJS template
+- Make a template using GX
